@@ -36,7 +36,8 @@ wheels/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+# Uncomment line below to ignore all notebooks (currently allowing notebooks/ folder)
+# *.ipynb
 
 # Testing
 .pytest_cache/
