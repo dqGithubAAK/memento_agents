@@ -1,0 +1,6 @@
+[submodule "ARE/meta-agents-research-environments"]
+	path = ARE/meta-agents-research-environments
+	url = https://github.com/facebookresearch/meta-agents-research-environments.git
+[submodule "Memento/Memento"]
+	path = Memento/Memento
+	url = https://github.com/Agent-on-the-Fly/Memento.git
